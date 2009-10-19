@@ -1,4 +1,4 @@
 category: X11
-requires: libX11_6 libXext6 libXft2 libXmuu1 libXrender1
+requires: libgcc1 libX11_6 libXext6 libXft2 libXmuu1 libXrender1
 sdesc: "X.Org X11 server performance tester"
 ldesc: "X.Org X11 server performance tester"
