@@ -1,0 +1,10 @@
+inherit xorg
+
+NAME="x11perf"
+VERSION=1.5.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X server performance tester"
+DESCRIPTION="The x11perf program runs one or more performance tests and
+reports how fast an X server can execute the tests. The x11perfcomp program
+merges the output of several x11perf runs into a nice tabular format."
